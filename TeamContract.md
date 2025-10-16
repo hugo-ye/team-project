@@ -1,9 +1,9 @@
 # Team Contract
 
 ## Preparation
-* a) Each team member studies and completes the assigned materials and completes individual readiness work before class.
-* b) Each member ensures the fulfillment of the shared outcome. The completion of the work is a secondary objective, and the focus is on mastering the skillset and norms to communicate and contribute effectively.
-* c) c.	Members who come unprepared and do not contribute effectively given the training in the class agrees to be taken note of and will be accounted for in peer evaluation.
+* Each team member studies and completes the assigned materials and completes individual readiness work before class.
+* Each member ensures the fulfillment of the shared outcome. The completion of the work is a secondary objective, and the focus is on mastering the skillset and norms to communicate and contribute effectively.
+* Members who come unprepared and do not contribute effectively given the training in the class agrees to be taken note of and will be accounted for in peer evaluation.
 
 ---
 
