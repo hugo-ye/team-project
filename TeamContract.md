@@ -24,6 +24,7 @@
 * If unable to attend, a member must notify the team in advance and provide input/complete tasks asynchronously. The member communicates their progress in the designated channels.
 * During team activities, every member will engage and contribute ideas.
 * Repeated absences without notice and lack of commitment will be reflected in peer evaluations and reported to the instructor team if persistent.
+* Each member commits to keeping track of the changes in the project through GitHub.
 
 ## Decision Making
 * Members will make decisions based on consensus and mutual agreement when possible.
@@ -61,7 +62,7 @@
 * Each team member commits to seeking help from the group or the instructor team if they are unable to complete their share of the work.
 * Each team member is accountable of the code they produce, i.e. whether they adhere to the standards set in the course or whether they pass the tests.
 * All members agree to provide honest and fair peer evaluations.
-* All members commit to providing constructive feedback to each other throughout the project work.
+* All members commit to providing and accepting constructive feedback to each other throughout the project work.
 
 ---
 
