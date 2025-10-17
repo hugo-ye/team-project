@@ -77,4 +77,5 @@ Team Member Signatures:
 * Amir Diba
 * Cheuk Fung Lau
 * Yifu Liang
+* Fan Peng
 * Hugo Ye
