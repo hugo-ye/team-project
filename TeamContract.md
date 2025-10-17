@@ -76,4 +76,5 @@ Team Member Signatures:
 * Abdullah Algothami
 * Amir Diba
 * Cheuk Fung Lau
+* Yifu Liang
 * Hugo Ye
