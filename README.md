@@ -19,7 +19,6 @@
 | **Amir Diba**          | `Amir8-5`       |
 | **Cheuk-Fung Lau**     | `cflau31666`      |
 | **Yifu Liang**         | `JeffLia06`     |
-| **Fan Peng**           | `pengfan200455` |
 | **Hugo Ye**            | `hugo-ye`       |
 
 ---
